@@ -1,2 +1,2 @@
 # iics
-Static website for IICS College
+Static website
